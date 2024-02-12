@@ -132,6 +132,7 @@ void loop()
   delay(1000);
   
   
+  // hi whatever
   // Stop servo
   // jawServo.writeMicroseconds(servoStop);
 }
